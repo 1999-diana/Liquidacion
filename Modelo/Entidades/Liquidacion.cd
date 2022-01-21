@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Modelo.Entidades.Configuracion" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAABAAgABAAAAAAAAAAAAAIAAAEAIAAAAAAAA=</HashCode>
+      <FileName>Entidades\Configuracion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Entidades.DecimoTercero" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAIQAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Entidades\DecimoTercero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Entidades.Empleado" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAoAABAgAAIAAAAAAAACAAAAgAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Entidades\Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Entidades.Empresa" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAEAgQAAAAAAAEAAAAACAAAADAAAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Empresa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Entidades.InformacionPersonal" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAiAAIAAAAAAAAAAAACAAEAAAAQAAAAACAAAAAAQAA=</HashCode>
+      <FileName>Entidades\InformacionPersonal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Entidades.Liquidacion" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACgAIAAAABAAAAAAAAAAAAAAAAAAAQAAgAAQIAAAA=</HashCode>
+      <FileName>Entidades\Liquidacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Entidades.RolDePagos" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABKAAIAAAAACAACAAAAAAAAAAACAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Entidades\RolDePagos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Entidades.Salario" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAEAgQAAAABDAEAAAAAACAAABACAABAAAAAg=</HashCode>
+      <FileName>Entidades\Salario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Entidades.Salario_Det" Collapsed="true">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAEAAQAAAAAAAAAAAAAAAAAAAAAAjACAAAAAAAAA=</HashCode>
+      <FileName>Entidades\Salario_Det.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Entidades.TiempoTrabajoEmpleado" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABCAAAgAAIAAABAGAAAAAAAAAABAAAACAAAAAA=</HashCode>
+      <FileName>Entidades\TiempoTrabajoEmpleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modelo.Entidades.Cargo" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAEAAAAAAAABAEAAQAAAAAAAAAAAAASAAAAA=</HashCode>
+      <FileName>Entidades\Cargo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
